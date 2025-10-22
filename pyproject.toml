@@ -48,7 +48,7 @@ tomli = { version = "^1.2", optional = true }
 sphinx = { version = "^4.3", optional = true }
 sphinx-rtd-theme = { version = "^1.0", optional = true }
 myst-parser = { version = ">=0.15,<0.18", optional = true }
-jedi = "^0.18.1"
+jedi = ">=0.18.1,<0.20.0"
 darkdetect = "^0.5.1"
 
 [tool.poetry.dev-dependencies]
